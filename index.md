@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# About Us
 
 * * *
 
-### Here is an unordered list:
+Concord Health Partners, LLC was founded to develop and promote a differentiated healthcare private equity strategy that seeks to optimize the alignment of interests between strategic investors and portfolio companies.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+We invest in expansion-stage companies that have the potential to enhance the value of healthcare through technology and solutions that lower costs, improve quality and/or expand access to care.
 
-### And an ordered list:
+# Our Team
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+* * *
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>James T. Olsen</dt>
+<dd>Founder & Managing Partner</dd>
+<dt>Joseph Swedish</dt>
+<dd>Co-Founder & Partner</dd>
+<dt>Scott Lowry</dt>
+<dd>Partner</dd>
+<dt>Benson Jose</dt>
+<dd>COO/CFO</dd>
+<dt>Taylor Whitman</dt>
+<dd>Principal</dd>
+<dt>John Fiddes</dt>
+<dd>Vice President</dd>
+<dt>George Hoffman</dt>
+<dd>Associate</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Ready to Learn More?
 
-```
-The final element.
-```
+* * *
+
+Discover how Concord Health Partners creates incremental value for investors and portfolio companies.
+
+
